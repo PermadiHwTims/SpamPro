@@ -1,11 +1,5 @@
 #!/system/xbin/bash
 
-clear
-
-toilet -f slant --gay "SpamPro"
-
-sleep 1
-
 echo "\033[31;1m Tools Spam"
 
 sleep 1
